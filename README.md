@@ -7,6 +7,6 @@ Both methods outperform the standard NMF algorithm from DD- Lee 2001:
 - [Algorithms for Non-negative Matrix Factorization](https://papers.nips.cc/paper/1861-algorithms-for-non-negative-matrix-factorization)
 
 Several files can be found including:
-- [Report with results of the people collaborating on the project and](AML_preport)
-- [A pdf file containing attemped proofs of several statements in the mentioned papers](AML_appendix)
-- [Folder with code used for training and creatinf results](Kode)
+- [Report with results of the people collaborating on the project and](AML_preport.pdf)
+- [A pdf file containing attemped proofs of several statements in the mentioned papers](AML_appendix.pdf)
+- [Folder with code used for training and creatinf results](Code)
